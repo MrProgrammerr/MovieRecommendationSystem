@@ -1,6 +1,8 @@
+# Movie Recommendation System
+
 <ol>
   <li>Description</li>
-  This project is a Movie Recommendation System built using Streamlit for the frontend and a pre-trained similarity matrix for recommending movies based on user input. The system leverages The Movie Database (TMDb) API to fetch movie posters, enhancing the user experience with visual elements.
+  This project is a Movie Recommendation System built using Streamlit for the frontend and a similarity matrix that is made using Cosine Similarity for recommending movies based on user input. The system leverages The Movie Database (TMDb) API to fetch movie posters, enhancing the user experience with visual elements.
   <li>Features</li>
   <ul>
     <li>Movie recommendations based on a pre-trained similarity matrix.</li>
